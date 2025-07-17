@@ -1,2 +1,2 @@
-# Applied-math
+# Applied_math
 Assignment 
